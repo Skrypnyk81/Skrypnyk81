@@ -29,7 +29,7 @@ Ho fatto Machine Learning su Kaggle - Titanic, usando Flask ho creato una  webap
 ### Tecnologie utilizzate: Flask, Machine Learning, AWS
 
 ## ESPERIENZA LAVORATIVA PRECEDENTE
-Dal 2003 principalmente mi occupavo nel ruolo di magazziniere. Ho lavorato presso Esselunga, Barcella elettroforniture e attualmente presso SDF.
+Dal 2003 principalmente mi occupavo nel ruolo di magazziniere. Ho lavorato presso Esselunga, Barcella elettroforniture e presso SDF.
 
 Università degli studi di Milano
 2014-2023 Scienze politiche. Ho fatto 13/21 esami. Non ho finito 
