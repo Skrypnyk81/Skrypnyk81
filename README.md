@@ -14,19 +14,19 @@ Dal settembre 2022 - oggi in full remote.
 
 Documentazione, refactoring e aggiunta delle nuove funzionalità nell'applicazione  web basata sul framework Django Rest Framework.
 Gestione webhook da Stripe a Fattura24.
-### Tecnologie utilizzate: DRF, REST API, Insomnia, Postgresql, Linux.
+#### Tecnologie utilizzate: DRF, REST API, Insomnia, Postgresql, Linux.
 
 ### IoT serverless AWS misurazione della temperatura e umidità 2023
 Programmato scheda ESP8266 per misurare temperatura umidità ogni 15 minuti, con la scrittura dei dati in DynamoDB. Tramite REST API chiedo a API Gateway e Lambda che restituisce tutti i dati.
-### Tecnologie utilizzate: C++, AWS, REST API, Postman
+#### Tecnologie utilizzate: C++, AWS, REST API, Postman
 
 ### WEB APP Database querying 2022
 Nel corso del mentoring, in squadra di 5 persone, abbiamo realizzato un app. Che accetta un file CSV di grosse dimensioni,  che va inserito in DB, dopo inserimento il cliente può fare interrogazione sulla DB.
-### Tecnologie utilizzate: Bootstrap, Python, Github, Firebase Authentication, Vuejs
+#### Tecnologie utilizzate: Bootstrap, Python, Github, Firebase Authentication, Vuejs
 
 ### WEB APP Titanic 2021
-Ho fatto Machine Learning su Kaggle - Titanic, usando Flask ho creato una  webapp che inserendo i vostri dati si può vedere se siete sopravvissuti. Postatando tutto su AWS. Sito online
-### Tecnologie utilizzate: Flask, Machine Learning, AWS
+Ho fatto Machine Learning su Kaggle - Titanic, usando Flask ho creato una  webapp che inserendo i vostri dati si può vedere se siete sopravvissuti. Postatando tutto su AWS. Sito online https://skrypnyk81.it/
+#### Tecnologie utilizzate: Flask, Machine Learning, AWS
 
 ## ESPERIENZA LAVORATIVA PRECEDENTE
 Dal 2003 principalmente mi occupavo nel ruolo di magazziniere. Ho lavorato presso Esselunga, Barcella elettroforniture e presso SDF.
@@ -36,21 +36,22 @@ Università degli studi di Milano
 
 
 ## COMPETENZE
-Python, SQL, Analisi dei dati, Pandas, Git, Flask, AWS, Github, Gitlab, Conoscenza Golang, JavaScript, R, Machine Learning
+Python, SQL, Analisi dei dati, Pandas, Git, Flask, AWS, Github, Gitlab \
+Conoscenza Golang, R, Machine Learning
 
 ## CORSI
-Seguo il corso di mentoring  in TommorowDevs
-Google Data Analytics Professional Certificate - Coursera
-TinyML1: Fundamentals of TinyML - edX
-PY0101EN: Python Basics for Data Science -edX
-Programing in Python - Stepik
-Statistica di base - Stepik
-Machine Learning - Stepik
+Seguo il corso di mentoring  in TommorowDevs \
+Google Data Analytics Professional Certificate - Coursera \
+TinyML1: Fundamentals of TinyML - edX \
+PY0101EN: Python Basics for Data Science -edX \
+Programing in Python - Stepik \
+Statistica di base - Stepik \
+Machine Learning - Stepik 
 
 ## LINGUE
-Italiano - Ottimo
-Ucraino - Madre lingua
-Inglese - A2
+Italiano - Ottimo \
+Ucraino - Madre lingua \
+Inglese - A2 
 
 ## HOBBY
 Sudoku, 
