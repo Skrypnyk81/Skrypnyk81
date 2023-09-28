@@ -1,7 +1,7 @@
 # IT/EN
 
 # Yuriy Skrypnyk
-## Junior Python Developer
+## Python Developer
 
 Calvenzano(BG)
 #### LinkedIn https://www.linkedin.com/in/yuriy-skrypnyk-70789023
@@ -11,7 +11,7 @@ Ho scritto il mio primo programma a 12 anni con Basic. Dal 2000 sono appassionat
 
 ## PROGETTI E ESPERIENZA LAVORATIVA
 
-### Junior Python Developer presso InTribe SB S.r.L.
+### Python Developer presso InTribe SB S.r.L.
 Dal settembre 2022 - oggi in full remote.
 
 Documentazione, refactoring e aggiunta delle nuove funzionalità nell'applicazione  web basata sul framework Django Rest Framework.
@@ -31,7 +31,7 @@ Ho fatto Machine Learning su Kaggle - Titanic, usando Flask ho creato una  webap
 #### Tecnologie utilizzate: Flask, Machine Learning, AWS
 
 ## ESPERIENZA LAVORATIVA PRECEDENTE
-Dal 2003 principalmente mi occupavo nel ruolo di magazziniere. Ho lavorato presso Esselunga, Barcella elettroforniture e presso SDF.
+Dal 2003 principalmente mi occupavo nel ruolo di magazziniere. Ho lavorato presso Esselunga, Barcella elettroforniture e SDF.
 
 Università degli studi di Milano
 2014-2023 Scienze politiche. Ho fatto 13/21 esami. Non ho finito 
@@ -42,6 +42,8 @@ Python, SQL, Analisi dei dati, Pandas, Git, Flask, AWS, Github, Gitlab \
 Conoscenza Golang, R, Machine Learning
 
 ## CORSI
+Cloud Engineer Career Path - Codemotion \
+DevOps Career Path - Codemotion \
 Seguo il corso di mentoring  in TommorowDevs \
 Google Data Analytics Professional Certificate - Coursera \
 TinyML1: Fundamentals of TinyML - edX \
@@ -62,7 +64,7 @@ MOOC
 
 # EN
 
-## Junior Python Developer
+## Python Developer
 
 Calvenzano(BG) Italy
 #### LinkedIn https://www.linkedin.com/in/yuriy-skrypnyk-70789023
@@ -72,7 +74,7 @@ I wrote my first program when I was 12 years old with Basic. Since 2000 I have b
 
 ## PROJECTS AND WORK EXPERIENCE
 
-### Junior Python Developer at InTribe SB S.r.L.
+### Python Developer at InTribe SB S.r.L.
 Since September 2022 - today in full remote.
 
 Documentation, refactoring and adding new features in web application based on Django Rest Framework.
@@ -92,7 +94,7 @@ I did Machine Learning on Kaggle - Titanic, using Flask I created a webapp that 
 #### Technologies used: Flask, Machine Learning, AWS
 
 ## PREVIOUS WORK EXPERIENCE
-Since 2003 I was mainly employed in the role of a warehouse worker. I worked at Esselunga, Barcella elettroforniture and at SDF.
+Since 2003 I was mainly employed in the role of a warehouse worker. I worked at Esselunga, Barcella elettroforniture and SDF.
 
 University of Milan
 2014-2023 Political Science. I took 13/21 exams. I have not finished 
@@ -103,7 +105,9 @@ Python, SQL, Data Analysis, Pandas, Git, Flask, AWS, Github, Gitlab \.
 Knowledge Golang, R, Machine Learning
 
 ## COURSES
-I am taking the mentoring course in TommorowDevs \.
+Cloud Engineer Career Path - Codemotion \
+DevOps Career Path - Codemotion \
+I am taking the mentoring course in TommorowDevs \
 Google Data Analytics Professional Certificate - Coursera \
 TinyML1: Fundamentals of TinyML - edX \
 PY0101EN: Python Basics for Data Science - edX \
